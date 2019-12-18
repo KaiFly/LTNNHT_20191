@@ -1,0 +1,14 @@
+E
+E I
++ * ( ) a b 0 1
+
+E -> I
+E -> E + E
+E -> E * E
+E -> ( E )
+I -> a
+I -> b
+I -> I a
+I -> I b
+I -> I 0
+I -> I 1
