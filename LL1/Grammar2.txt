@@ -1,0 +1,7 @@
+S
+S A B
+a ^ b c
+
+S -> aAB | AB | ^
+B -> bBc | AS
+A -> aAb | ^

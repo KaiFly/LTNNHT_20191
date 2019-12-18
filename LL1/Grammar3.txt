@@ -1,0 +1,11 @@
+S
+S C V T P D O P
+h t n
+
+S -> CV | TCV
+T -> P
+C -> P | D
+V -> O
+D -> t | h
+P -> h
+O -> n
