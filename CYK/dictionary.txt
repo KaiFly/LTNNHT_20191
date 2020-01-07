@@ -1,0 +1,7 @@
+N -> conmeo
+N -> nhin
+N -> cucbong
+V -> nhin
+V -> nhu
+P -> nhu
+DET -> mot

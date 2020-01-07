@@ -1,0 +1,8 @@
+D
+D T L X
+int char float id , ;
+
+D -> TL
+T -> int | char | float
+L -> idX
+X -> ,L | ;
